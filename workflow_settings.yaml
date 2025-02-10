@@ -1,0 +1,5 @@
+defaultProject: starry-lattice-443907-n1
+defaultLocation: asia-south1
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0
